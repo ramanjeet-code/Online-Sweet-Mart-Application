@@ -32,6 +32,8 @@ git clone https://github.com/gzbsingh/gabby-cough-15.git
 5. Provide shipping and payment details to place the order.
 6. View and track orders in the user dashboard.
 7. Administrators can access the admin dashboard to manage products, categories, and user accounts.
+## Project Service Scheme
+![Project schema](https://github.com/gzbsingh/gabby-cough-15/assets/39863817/f3b43d46-3355-40bf-ac8b-c1f59d433de1)
 
 ## Contributing
 Contributions to the Online Sweet Mart application are welcome! If you'd like to contribute, please follow these steps:
